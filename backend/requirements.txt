@@ -5,3 +5,5 @@ python-dotenv
 requests
 gunicorn
 psycopg2-binary
+PyJWT==2.8.0
+cryptography==41.0.7
